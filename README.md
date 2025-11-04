@@ -1,12 +1,12 @@
 # 💹 Cryptocurrency SQL Case Study (MySQL Version)
 
-### 📘 Overview
+###  Overview
 This repository contains SQL analysis queries for a **Cryptocurrency trading case study**, inspired by the *Data With Danny SQL Simplified Labs*.  
 The project demonstrates real-world SQL concepts using **MySQL 8.0**, including filtering, aggregation, window functions, and joins.
 
 ---
 
-### 🧱 Database Setup
+###  Database Setup
 
 **Database:** `cryptocurrency`
 
@@ -19,7 +19,7 @@ The project demonstrates real-world SQL concepts using **MySQL 8.0**, including 
 
 ---
 
-### 📦 Files Included
+###  Files Included
 | File | Description |
 |------|--------------|
 | `cryptocurrency.sql` | All SQL logic for table creation and lab queries. |
@@ -30,7 +30,7 @@ The project demonstrates real-world SQL concepts using **MySQL 8.0**, including 
 
 ---
 
-### 🧠 SQL Concepts Demonstrated
+###  SQL Concepts Demonstrated
 | Lab | Topic | SQL Features |
 |-----|--------|--------------|
 | Lab 1 | Basic Queries | `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`, `DISTINCT` |
@@ -41,7 +41,7 @@ The project demonstrates real-world SQL concepts using **MySQL 8.0**, including 
 
 ---
 
-### ▶️ How to Run
+###  How to Run
 
 1. Open **MySQL Workbench** or any SQL client.  
 2. Execute the following command:
@@ -99,3 +99,4 @@ Sayali Takekar
 Data Science
 Maharashtra, India
 Passionate about SQL and analytics
+
