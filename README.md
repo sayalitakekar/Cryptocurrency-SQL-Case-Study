@@ -65,6 +65,11 @@ Run the Lab sections (Lab 1 to Lab 5) in order.
 ### Example Output
 Example Query: Monthly Cumulative Volume
 
+### 📊 Example Output
+
+**Example Query: Monthly Cumulative Volume**
+
+```sql
 WITH cte_monthly_volume AS (
   SELECT
     ticker,
@@ -93,10 +98,12 @@ FROM cte_monthly_volume
 ORDER BY ticker, month_start;
 
 
+
 ### Author
 
 Sayali Takekar
 Data Science
 Maharashtra, India
 Passionate about SQL and analytics
+
 
